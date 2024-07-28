@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dark Smooth Theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(41, 41, 41)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(55, 55, 55)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(55, 55, 55)",
+      "toolbar_field_text": "rgb(218, 218, 218)",
+      "tab_line": "rgb(62, 62, 62)",
+      "popup": "rgb(41, 41, 41)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(62, 62, 62)"
+    }
+  }
+}
